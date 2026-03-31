@@ -189,8 +189,6 @@ Through this project, I learned:
 * Python’s Linux ecosystem
 * OSS philosophy in real-world systems
 
-
-
-## ✅ Final Note
+##  Final Note
 
 This project combines **open-source theory with hands-on Linux scripting practice**, fulfilling the requirements of the **OSS Audit Capstone Project**.
